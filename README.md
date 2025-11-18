@@ -1,6 +1,7 @@
 # Professional-Associations-# ISSA South Texas Chapter
 
-<img width="1050" height="668" alt="image" src="https://github.com/user-attachments/assets/d60ad35e-c7a1-4313-83ea-36f368b033d2" />
+<img width="282" height="179" alt="image" src="https://github.com/user-attachments/assets/6c469c36-5d41-4b54-930f-eef00851d9ff" />
+
 
 
 ## About ISSA
