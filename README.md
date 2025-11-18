@@ -1,6 +1,7 @@
 # Professional-Associations-# ISSA South Texas Chapter
 
-![ISSA Logo](https://www.issa.org/wp-content/uploads/2019/01/ISSA-logo.png)
+<img width="1050" height="668" alt="image" src="https://github.com/user-attachments/assets/d60ad35e-c7a1-4313-83ea-36f368b033d2" />
+
 
 ## About ISSA
 
