@@ -39,11 +39,6 @@ Membership is open to:
 - Continuing education and certifications
 - Participation in regional and global events
 
-### Contact
-
-**Email:** [southtexas@issa.org](mailto:southtexas@issa.org)  
-**Website:** [https://www.issa.org/chapters/south-texas](https://www.issa.org/chapters/south-texas)  
-**LinkedIn:** [ISSA South Texas Chapter](https://www.linkedin.com/company/issa-south-texas-chapter)
 
 ---
 
@@ -107,13 +102,6 @@ ACFE operates hundreds of chapters globally, providing:
 - Educational workshops and seminars
 - Community fraud awareness initiatives
 - Professional development opportunities
-
-### Contact & Resources
-
-**ACFE Global:** [https://www.acfe.com](https://www.acfe.com)  
-**CFE Exam:** [https://www.acfe.com/certification](https://www.acfe.com/certification)  
-**Local Chapters:** [https://www.acfe.com/chapters](https://www.acfe.com/chapters)  
-**Contact:** [https://www.acfe.com/contact](https://www.acfe.com/contact)
 
 ---
 
