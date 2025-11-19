@@ -49,7 +49,8 @@ Membership is open to:
 
 ## ACFE (Association of Certified Fraud Examiners)
 
-<img width="282" height="179" alt="ACFE Logo" src="https://via.placeholder.com/282x179?text=ACFE+Logo" />
+<img width="379" height="133" alt="image" src="https://github.com/user-attachments/assets/37e03e8c-d476-49ac-a76f-938bf58aa724" />
+
 
 ### About ACFE
 
